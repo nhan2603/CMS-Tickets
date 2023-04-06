@@ -12,7 +12,7 @@ function TrangChu() {
         labels: ['Thứ 2', 'Thứ 3', 'Thứ 4', 'Thứ 5', 'Thứ 6', 'Thứ 7', 'CN'],
         datasets: [
             {
-                data: [150, 170, 170, 14    0, 220, 230, 200, 195],
+                data: [150, 170, 170, 140, 220, 230, 200, 195],
                 backgroundColor: 'transparent',
                 borderColor: '#f26c6d',
                 pointBorderColor: 'transparent',
